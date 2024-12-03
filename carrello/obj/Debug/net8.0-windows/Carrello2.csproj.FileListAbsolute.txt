@@ -1,0 +1,16 @@
+C:\Users\Utente\source\repos\Carrello2\bin\Debug\net8.0-windows\Carrello2.exe
+C:\Users\Utente\source\repos\Carrello2\bin\Debug\net8.0-windows\Carrello2.deps.json
+C:\Users\Utente\source\repos\Carrello2\bin\Debug\net8.0-windows\Carrello2.runtimeconfig.json
+C:\Users\Utente\source\repos\Carrello2\bin\Debug\net8.0-windows\Carrello2.dll
+C:\Users\Utente\source\repos\Carrello2\bin\Debug\net8.0-windows\Carrello2.pdb
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.Form1.resources
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.dll
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\refint\Carrello2.dll
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.pdb
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\Carrello2.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Carrello2\obj\Debug\net8.0-windows\ref\Carrello2.dll
